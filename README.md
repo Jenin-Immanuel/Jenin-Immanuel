@@ -83,14 +83,16 @@ An aspiring Ethical Hacker and a passionate programmer
   <h3> Main Projects </h3>
   
   
-  <a href="http://iamevs.github.io" target="_blank">
+  <a href="http://jeninimmanuel.netlify.app" target="_blank">
   
   ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
   
   </a>
   
   <a href="http://bandagratha.netlify.app" target="_blank">
-  ![BandAgratha](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+    
+  ![bandagratha](https://img.shields.io/badge/bandagratha-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+     
   </a>
 </div>
 
@@ -98,27 +100,23 @@ An aspiring Ethical Hacker and a passionate programmer
  
   
   
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamevs" alt="iamevs" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jenin-immanuel" alt="iamevs" /></a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamevs&show_icons=true&locale=en&layout=compact" alt="iamevs" /></p><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jenin-immanuel&show_icons=true&locale=en&layout=compact" alt="iamevs" /></p><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamevs&show_icons=true&locale=en" alt="iamevs" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jenin-immanuel&show_icons=true&locale=en" alt="iamevs" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamevs&" alt="iamevs" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jenin-immanuel&" alt="jenin-immanuel" /></p>
 
  <hr>
   
   <h3> Other Social Platforms </h3>
   
-<a href="https://www.instagram.com/i_am_evs" target="_blank">
+<a href="https://www.instagram.com/jeninimmanuel/" target="_blank">
 
-![Instagram](https://img.shields.io/badge/i_am_evs-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-
-</a>   <a href="https://www.codepen.io/iamevs" teerget="_blank">
+![Instagram](https://img.shields.io/badge/JeninImmanuel-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
   
-![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
-  
-</a>   <a href="mailto:iamevs143@gmail.com" target="_blank">
+</a>   <a href="mailto:jeninimmi2003@gmail.com" target="_blank">
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
@@ -127,7 +125,7 @@ An aspiring Ethical Hacker and a passionate programmer
 
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamevs&label=Profile%20views&color=0e75b6&style=flat" alt="iamevs" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jenin-immanuel&label=Profile%20views&color=0e75b6&style=flat" alt="jenin-immanuel" /> </p>
 
 
 
