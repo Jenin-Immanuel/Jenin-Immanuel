@@ -94,6 +94,12 @@ An aspiring Ethical Hacker and a passionate programmer
   ![bandagratha](https://img.shields.io/badge/bandagratha-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
      
   </a>
+  
+  <a href="https://rajaniraiyn.github.io/rot-landing-page" target="_blank">
+  
+  ![ROT](https://img.shields.io/badge/rot-%23F15A2C.svg?style=for-the-badge&logo=unraid&logoColor=white)
+  
+  </a>
 </div>
 
  <br><hr>
