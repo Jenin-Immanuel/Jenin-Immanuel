@@ -18,7 +18,7 @@ An aspiring Ethical Hacker and a passionate programmer
 <!--![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=iamevs&show_icons=true)-->
 <h3>
   
-- 👋 I’m Jenin Immanuel J
+- 👋 I’m Jenin Immanuel
 - 📖 Currently Learning Ethical Hacking and Full-Stack
 
  </h3>
