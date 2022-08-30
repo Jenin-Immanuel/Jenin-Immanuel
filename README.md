@@ -128,11 +128,11 @@ An aspiring Ethical Hacker and a passionate programmer
  
   
   
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jenin-immanuel" alt="iamevs" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jenin-immanuel" alt="" /></a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jenin-immanuel&show_icons=true&locale=en&layout=compact" alt="iamevs" /></p><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jenin-immanuel&show_icons=true&locale=en&layout=compact" alt="" /></p><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jenin-immanuel&show_icons=true&locale=en" alt="iamevs" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jenin-immanuel&show_icons=true&locale=en" alt="" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jenin-immanuel&" alt="jenin-immanuel" /></p>
 
