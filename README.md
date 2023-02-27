@@ -134,7 +134,7 @@ An aspiring Ethical Hacker and a passionate programmer
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jenin-immanuel&show_icons=true&locale=en" alt="" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jenin-immanuel&" alt="jenin-immanuel" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jenin-Immanuel&theme=radical)](https://git.io/streak-stats)
 
  <hr>
   
