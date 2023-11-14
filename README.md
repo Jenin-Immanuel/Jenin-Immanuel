@@ -19,7 +19,6 @@ An aspiring Ethical Hacker and a passionate programmer
 <h3>
   
 - 👋 I’m Jenin Immanuel
-- 📖 Currently Learning Ethical Hacking and Full-Stack
 
  </h3>
   
