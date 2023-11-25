@@ -9,7 +9,7 @@
 # Hi, I'm Jenin 🖐️
 
 <h2>
-An aspiring Ethical Hacker and a passionate programmer
+A tech pantomath and a passionate programmer
 <br>
 </h2>
 
@@ -83,7 +83,8 @@ An aspiring Ethical Hacker and a passionate programmer
   <br />
   <h3>Currently Learning</h3>
   
-  ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) 
+  - Machine Learning
+  - Finetuning LLMs
   
 
  
