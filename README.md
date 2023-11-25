@@ -105,9 +105,9 @@ A tech pantomath and a passionate programmer
   <h3> Main Projects </h3>
   
   
-  <a href="http://jeninimmanuel.netlify.app" target="_blank">
+  <a href="http://dexlang.vercel.app" target="_blank">
   
-  ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+  ![Dark Elixir](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
   
   </a>
   
